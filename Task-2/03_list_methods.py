@@ -1,0 +1,21 @@
+friends = ['Aman','Ravi','Neha','Karan','Priya']
+print('Friends:',friends)
+print('Available methods:',[m for m in dir(list) if not m.startswith('_')])
+for method in ['append','extend','insert','remove','pop','clear','index','count','sort','reverse','copy']:
+    help(getattr(list,method))
+
+friends.append('Rohit')
+friends.extend(['Meena','Amit'])
+friends.insert(1,'Anu')
+friends.remove('Ravi')
+print('Removed last:',friends.pop())
+print('Index of Neha:',friends.index('Neha'))
+print('Count of Aman:',friends.count('Aman'))
+friends.sort()
+print('Sorted:',friends)
+friends.reverse()
+print('Reversed:',friends)
+new = friends.copy()
+new.clear()
+print('Cleared copy:',new)
+print('Original:',friends)

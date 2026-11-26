@@ -999,3 +999,34 @@ Balance: 800.0
 1. Create  2. Deposit  3. Withdraw  4. Balance  5. Exit
 Choice:
 ```
+
+## Task-2/03_list_methods.py
+
+Input: None
+
+```text
+Friends: ['Aman', 'Ravi', 'Neha', 'Karan', 'Priya']
+Available methods: ['append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort']
+[help() output omitted for brevity]
+Index of Neha: 2
+Count of Aman: 1
+Sorted: ['Aman', 'Anu', 'Karan', 'Meena', 'Neha', 'Priya', 'Rohit']
+Reversed: ['Rohit', 'Priya', 'Neha', 'Meena', 'Karan', 'Anu', 'Aman']
+Cleared copy: []
+Original: ['Rohit', 'Priya', 'Neha', 'Meena', 'Karan', 'Anu', 'Aman']
+```
+
+## Task-2/05_value_types.py
+
+Input: None
+
+```text
+100 : int
+105.5 : float
+192.56j : complex
+(10+6j) : complex
+'10' : str
+'hello world' : str
+[10, 20, 50, 100] : list
+{'name': 'sachin', 'age': 24, 'language': 'python'} : dict
+```
