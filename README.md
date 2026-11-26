@@ -13,7 +13,7 @@ GitHub: abhipotter
 |---|---|---|
 | [If-Else](./If-Else/) | 14 programs | Conditionals |
 | [Unit-1](./Unit-1/) | 1–20 | Basics, arithmetic and simple loops. Working with loops and prime numbers |
-| [Unit-2](./Unit-2/) | 21–30 | String operations |
+| [Unit-2](./Unit-2/) | 21–40 | String operations. Lists and tuples |
 
 ## How to run
 

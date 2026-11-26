@@ -381,3 +381,85 @@ Input: `hello python`
 ```text
 Enter sentence: Hello Python
 ```
+
+## Unit-2/31_second_largest.py
+
+Input: `9 9 7 2`
+
+```text
+Enter numbers: Second largest: 7
+```
+
+## Unit-2/32_remove_list_duplicates.py
+
+Input: `2 2 3 1`
+
+```text
+Enter numbers: [2, 3, 1]
+```
+
+## Unit-2/33_equal_lists.py
+
+Input: `1 2 | 1 2`
+
+```text
+First list: Second list: Lists are equal
+```
+
+## Unit-2/34_union_intersection.py
+
+Input: `1 2 | 2 3`
+
+```text
+First list: Second list: Union: [1, 2, 3]
+Intersection: [2]
+```
+
+## Unit-2/35_list_comprehension.py
+
+Input: None
+
+```text
+[4, 16, 36, 64, 100, 144, 196, 256, 324, 400]
+```
+
+## Unit-2/36_tuple_add_remove.py
+
+Input: None
+
+```text
+(10, 30, 40)
+```
+
+## Unit-2/37_tuple_to_string.py
+
+Input: None
+
+```text
+Python
+```
+
+## Unit-2/38_merge_tuples.py
+
+Input: None
+
+```text
+(1, 2, 3, 4, 5, 6)
+```
+
+## Unit-2/39_tuple_index.py
+
+Input: `30`
+
+```text
+Enter number: Index: 2
+```
+
+## Unit-2/40_tuple_max_min.py
+
+Input: None
+
+```text
+Maximum: 30
+Minimum: 4
+```
