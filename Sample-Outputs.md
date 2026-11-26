@@ -463,3 +463,86 @@ Input: None
 Maximum: 30
 Minimum: 4
 ```
+
+## Unit-3/41_dictionary_keys_values.py
+
+Input: None
+
+```text
+['name', 'age', 'course']
+['Aman', 21, 'MCA']
+```
+
+## Unit-3/42_merge_dictionaries.py
+
+Input: None
+
+```text
+{'a': 10, 'b': 20, 'c': 30, 'd': 40}
+```
+
+## Unit-3/43_check_key.py
+
+Input: `name`
+
+```text
+Enter key: Key exists
+```
+
+## Unit-3/44_sort_dictionary.py
+
+Input: None
+
+```text
+{'a': 2, 'm': 3, 'z': 1}
+```
+
+## Unit-3/45_sum_dictionary_values.py
+
+Input: None
+
+```text
+Sum: 60
+```
+
+## Unit-3/46_dictionary_from_lists.py
+
+Input: None
+
+```text
+{'name': 'Aman', 'age': 21, 'city': 'Kota'}
+```
+
+## Unit-3/47_remove_dictionary_key.py
+
+Input: `age`
+
+```text
+Key to remove: {'name': 'Aman', 'city': 'Kota'}
+```
+
+## Unit-3/48_nested_dictionaries.py
+
+Input: None
+
+```text
+1 Aman 80
+2 Ravi 75
+```
+
+## Unit-3/49_word_frequency.py
+
+Input: `one two one`
+
+```text
+Enter sentence: {'one': 2, 'two': 1}
+```
+
+## Unit-3/50_dictionary_max_min.py
+
+Input: None
+
+```text
+Maximum: 45
+Minimum: 8
+```
