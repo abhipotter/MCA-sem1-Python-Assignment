@@ -16,6 +16,7 @@ GitHub: abhipotter
 | [Unit-2](./Unit-2/) | 21–40 | String operations. Lists and tuples |
 | [Unit-3](./Unit-3/) | 41–60 | Dictionary operations. Functions and recursion |
 | [Unit-4](./Unit-4/) | 61–80 | Modules, packages and basic file I/O. File and directory operations |
+| [Unit-5](./Unit-5/) | 81–100 | Exception handling and OOP |
 
 ## How to run
 
@@ -28,6 +29,6 @@ python Unit-4/64_use_package.py
 
 Enter the values when the program asks for input. For programs that take a list of numbers, enter numbers separated by spaces. No extra Python packages are needed.
 
-Unit 4 has sample text and CSV files. Some of the programs create or modify their own demo files in that folder.
+Unit 4 has sample text and CSV files. Some of the programs create or modify their own demo files in that folder. The bank and student management examples store data in memory only.
 
 Sample runs are in [Sample-Outputs.md](./Sample-Outputs.md). The weekday program uses Monday as day 1 and Sunday as day 7. Marks are assumed to be out of 100 for each subject.

@@ -804,3 +804,198 @@ Word to replace: New word: Java is easy
 I like Java
 Java is useful
 ```
+
+## Unit-5/81_try_except.py
+
+Input: `0`
+
+```text
+Enter number: Cannot divide by zero
+```
+
+## Unit-5/82_finally.py
+
+Input: `0`
+
+```text
+Enter number: Invalid input
+Program finished
+```
+
+## Unit-5/83_custom_exception.py
+
+Input: `15`
+
+```text
+Enter age: Age must be at least 18
+```
+
+## Unit-5/84_multiple_exceptions.py
+
+Input: `abc`
+
+```text
+First number: Enter integers only
+```
+
+## Unit-5/85_exception_else.py
+
+Input: `10`
+
+```text
+Enter number: Number entered: 10
+```
+
+## Unit-5/86_class_attributes.py
+
+Input: None
+
+```text
+Aman MCA 21
+```
+
+## Unit-5/87_inheritance.py
+
+Input: None
+
+```text
+Eating
+Barking
+```
+
+## Unit-5/88_method_overloading.py
+
+Input: None
+
+```text
+5
+15
+30
+```
+
+## Unit-5/89_method_overriding.py
+
+Input: None
+
+```text
+Animal sound
+Dog barks
+```
+
+## Unit-5/90_data_hiding.py
+
+Input: None
+
+```text
+Balance: 5000
+```
+
+## Unit-5/91_constructor.py
+
+Input: None
+
+```text
+Aman 21
+```
+
+## Unit-5/92_rectangle_area.py
+
+Input: `5 | 3`
+
+```text
+Length: Breadth: Area: 15.0
+```
+
+## Unit-5/93_multiple_inheritance.py
+
+Input: None
+
+```text
+Driving
+Cooking
+```
+
+## Unit-5/94_hierarchical_inheritance.py
+
+Input: None
+
+```text
+Eating
+Barking
+Eating
+Meowing
+```
+
+## Unit-5/95_list_of_objects.py
+
+Input: None
+
+```text
+Aman 85
+Neha 90
+```
+
+## Unit-5/96_student_management.py
+
+Input: `1 | 101 | Aman | 80 | 2 | 3 | 101 | 4 | 101 | 85 | 2 | 5 | 101 | 6`
+
+```text
+1. Add  2. Show  3. Search  4. Update marks  5. Delete  6. Exit
+Choice: Roll number: Name: Marks: Student added
+1. Add  2. Show  3. Search  4. Update marks  5. Delete  6. Exit
+Choice: 101 Aman 80.0
+1. Add  2. Show  3. Search  4. Update marks  5. Delete  6. Exit
+Choice: Roll number: 101 Aman 80.0
+1. Add  2. Show  3. Search  4. Update marks  5. Delete  6. Exit
+Choice: Roll number: New marks: Updated
+1. Add  2. Show  3. Search  4. Update marks  5. Delete  6. Exit
+Choice: 101 Aman 85.0
+1. Add  2. Show  3. Search  4. Update marks  5. Delete  6. Exit
+Choice: Roll number: Student deleted
+1. Add  2. Show  3. Search  4. Update marks  5. Delete  6. Exit
+Choice:
+```
+
+## Unit-5/97_polymorphism.py
+
+Input: None
+
+```text
+Bark
+Meow
+```
+
+## Unit-5/98_abstract_class.py
+
+Input: None
+
+```text
+Area: 25
+```
+
+## Unit-5/99_class_static_methods.py
+
+Input: None
+
+```text
+MCA 2026
+Passed: True
+```
+
+## Unit-5/100_bank_management.py
+
+Input: `1 | 1001 | Aman | 2 | 1001 | 1000 | 3 | 1001 | 200 | 4 | 1001 | 5`
+
+```text
+1. Create  2. Deposit  3. Withdraw  4. Balance  5. Exit
+Choice: Account number: Name: Account created
+1. Create  2. Deposit  3. Withdraw  4. Balance  5. Exit
+Choice: Account number: Amount: Deposited
+1. Create  2. Deposit  3. Withdraw  4. Balance  5. Exit
+Choice: Account number: Amount: Withdrawn
+1. Create  2. Deposit  3. Withdraw  4. Balance  5. Exit
+Choice: Account number: Name: Aman
+Balance: 800.0
+1. Create  2. Deposit  3. Withdraw  4. Balance  5. Exit
+Choice:
+```
