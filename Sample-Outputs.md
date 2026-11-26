@@ -292,3 +292,92 @@ Input: `11`
 ```text
 Enter number: Prime
 ```
+
+## Unit-2/21_substring.py
+
+Input: `Python | 1 | 4`
+
+```text
+Enter string: Start index: End index: yth
+```
+
+## Unit-2/22_word_count.py
+
+Input: `hi bye hi`
+
+```text
+Enter sentence: hi 2
+bye 1
+```
+
+## Unit-2/23_pangram.py
+
+Input: `The quick brown fox jumps over the lazy dog`
+
+```text
+Enter string: Pangram
+```
+
+## Unit-2/24_permutations.py
+
+Input: `abc`
+
+```text
+Enter string: abc
+acb
+bac
+bca
+cab
+cba
+```
+
+## Unit-2/25_remove_duplicate_chars.py
+
+Input: `banana`
+
+```text
+Enter string: ban
+```
+
+## Unit-2/26_reverse_words.py
+
+Input: `hello world`
+
+```text
+Enter sentence: world hello
+```
+
+## Unit-2/27_character_frequency.py
+
+Input: `aba`
+
+```text
+Enter string: {'a': 2, 'b': 1}
+```
+
+## Unit-2/28_string_slicing.py
+
+Input: `Python`
+
+```text
+Enter string: First three: Pyt
+Last three: hon
+Alternate: Pto
+Reverse: nohtyP
+```
+
+## Unit-2/29_string_length.py
+
+Input: `hello`
+
+```text
+Enter string: Length: 5
+```
+
+## Unit-2/30_capitalize_words.py
+
+Input: `hello python`
+
+```text
+Enter sentence: Hello Python
+```

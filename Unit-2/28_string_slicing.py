@@ -1,0 +1,5 @@
+s = input('Enter string: ')
+print('First three:',s[:3])
+print('Last three:',s[-3:])
+print('Alternate:',s[::2])
+print('Reverse:',s[::-1])
