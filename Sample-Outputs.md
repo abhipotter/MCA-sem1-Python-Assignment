@@ -717,3 +717,90 @@ Input: None
 ```text
 Size: 46 bytes
 ```
+
+## Unit-4/71_write_user_input.py
+
+Input: `hello`
+
+```text
+Enter text: File created
+```
+
+## Unit-4/72_copy_file.py
+
+Input: None
+
+```text
+File copied
+```
+
+## Unit-4/73_read_line_by_line.py
+
+Input: None
+
+```text
+Python is easy
+I like Python
+Python is useful
+```
+
+## Unit-4/74_os_file_methods.py
+
+Input: None
+
+```text
+Exists: True
+Size: 5
+Renamed: os_renamed.txt
+```
+
+## Unit-4/75_create_directory.py
+
+Input: None
+
+```text
+['hello.txt']
+```
+
+## Unit-4/76_delete_file.py
+
+Input: None
+
+```text
+File deleted
+```
+
+## Unit-4/77_frequent_word.py
+
+Input: None
+
+```text
+python 3
+```
+
+## Unit-4/78_merge_files.py
+
+Input: None
+
+```text
+Files merged
+```
+
+## Unit-4/79_first_n_lines.py
+
+Input: `2`
+
+```text
+Number of lines: Python is easy
+I like Python
+```
+
+## Unit-4/80_replace_word.py
+
+Input: `Python | Java`
+
+```text
+Word to replace: New word: Java is easy
+I like Java
+Java is useful
+```

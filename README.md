@@ -15,7 +15,7 @@ GitHub: abhipotter
 | [Unit-1](./Unit-1/) | 1–20 | Basics, arithmetic and simple loops. Working with loops and prime numbers |
 | [Unit-2](./Unit-2/) | 21–40 | String operations. Lists and tuples |
 | [Unit-3](./Unit-3/) | 41–60 | Dictionary operations. Functions and recursion |
-| [Unit-4](./Unit-4/) | 61–70 | Modules, packages and basic file I/O |
+| [Unit-4](./Unit-4/) | 61–80 | Modules, packages and basic file I/O. File and directory operations |
 
 ## How to run
 
