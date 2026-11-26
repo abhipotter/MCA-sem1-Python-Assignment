@@ -197,3 +197,98 @@ Input: `5`
 ```text
 Enter number: Factorial: 120
 ```
+
+## Unit-1/11_sum_natural_numbers.py
+
+Input: `5`
+
+```text
+Enter n: Sum: 15
+```
+
+## Unit-1/12_vowels_consonants.py
+
+Input: `Hello World`
+
+```text
+Enter string: Vowels: 3
+Consonants: 7
+```
+
+## Unit-1/13_list_max_min.py
+
+Input: `4 9 2`
+
+```text
+Enter numbers: Largest: 9
+Smallest: 2
+```
+
+## Unit-1/14_reverse_number.py
+
+Input: `120`
+
+```text
+Enter number: Reverse: 21
+```
+
+## Unit-1/15_string_palindrome.py
+
+Input: `Madam`
+
+```text
+Enter string: Palindrome
+```
+
+## Unit-1/16_multiplication_table.py
+
+Input: `5`
+
+```text
+Enter number: 5 x 1 = 5
+5 x 2 = 10
+5 x 3 = 15
+5 x 4 = 20
+5 x 5 = 25
+5 x 6 = 30
+5 x 7 = 35
+5 x 8 = 40
+5 x 9 = 45
+5 x 10 = 50
+```
+
+## Unit-1/17_break_continue.py
+
+Input: None
+
+```text
+1
+2
+4
+5
+6
+```
+
+## Unit-1/18_sum_of_digits.py
+
+Input: `1234`
+
+```text
+Enter number: Sum: 10
+```
+
+## Unit-1/19_primes_in_range.py
+
+Input: `1 | 10`
+
+```text
+Start: End: 2 3 5 7
+```
+
+## Unit-1/20_check_prime.py
+
+Input: `11`
+
+```text
+Enter number: Prime
+```

@@ -12,7 +12,7 @@ GitHub: abhipotter
 | Folder | Exercises | Topics |
 |---|---|---|
 | [If-Else](./If-Else/) | 14 programs | Conditionals |
-| [Unit-1](./Unit-1/) | 1–10 | Basics, arithmetic and simple loops |
+| [Unit-1](./Unit-1/) | 1–20 | Basics, arithmetic and simple loops. Working with loops and prime numbers |
 
 ## How to run
 
