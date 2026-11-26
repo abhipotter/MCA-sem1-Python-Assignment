@@ -546,3 +546,87 @@ Input: None
 Maximum: 45
 Minimum: 8
 ```
+
+## Unit-3/51_user_defined_function.py
+
+Input: `2 | 3`
+
+```text
+First number: Second number: 5
+```
+
+## Unit-3/52_power_recursion.py
+
+Input: `2 | 5`
+
+```text
+Base: Power: 32.0
+```
+
+## Unit-3/53_default_arguments.py
+
+Input: None
+
+```text
+Hello Student
+Hello Aman
+```
+
+## Unit-3/54_return_multiple_values.py
+
+Input: None
+
+```text
+Sum: 12
+Difference: 4
+Product: 32
+```
+
+## Unit-3/55_lambda_function.py
+
+Input: `5`
+
+```text
+Enter number: 25
+```
+
+## Unit-3/56_gcd_function.py
+
+Input: `24 | 18`
+
+```text
+First number: Second number: GCD: 6
+```
+
+## Unit-3/57_factorial_recursion.py
+
+Input: `5`
+
+```text
+Enter number: 120
+```
+
+## Unit-3/58_local_global_variables.py
+
+Input: None
+
+```text
+Local: 5
+Global: 12
+```
+
+## Unit-3/59_sum_list_function.py
+
+Input: `1 2 3`
+
+```text
+Enter numbers: 6
+```
+
+## Unit-3/60_anonymous_function.py
+
+Input: None
+
+```text
+[2, 4, 6]
+```
