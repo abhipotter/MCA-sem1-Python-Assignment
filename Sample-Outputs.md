@@ -1030,3 +1030,31 @@ Input: None
 [10, 20, 50, 100] : list
 {'name': 'sachin', 'age': 24, 'language': 'python'} : dict
 ```
+
+## Task-3/01_shallow_deep_copy.py
+
+Input: None
+
+```text
+Original: [[99, 2], [3, 4]]
+Shallow copy: [[99, 2], [3, 4]]
+Deep copy: [[1, 2], [3, 4]]
+```
+
+## Task-3/02_library_lists.py
+
+Input: None
+
+```text
+Books:
+[101, 'Learning Python', 'Mark Lutz', 2]
+[102, 'Python Basics', 'R. Sharma', 1]
+[103, 'Data Structures', 'A. Kumar', 3]
+Students:
+[1, 'Aman', 'MCA']
+[2, 'Neha', 'MCA']
+[3, 'Ravi', 'BCA']
+Issued books:
+[101, 1, '2026-11-20']
+[102, 2, '2026-11-21']
+```

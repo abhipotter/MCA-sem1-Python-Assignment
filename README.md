@@ -18,6 +18,7 @@ GitHub: abhipotter
 | [Unit-4](./Unit-4/) | 61–80 | Modules, packages and basic file I/O. File and directory operations |
 | [Unit-5](./Unit-5/) | 81–100 | Exception handling and OOP |
 | [Task-2](./Task-2/) | 5 questions | Data structures, list methods and data types |
+| [Task-3](./Task-3/) | 5 questions | Copying, library lists, expressions and functions |
 
 ## How to run
 
