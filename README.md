@@ -12,13 +12,14 @@ GitHub: abhipotter
 | Folder | Exercises | Topics |
 |---|---|---|
 | [If-Else](./If-Else/) | 14 programs | Conditionals |
+| [Unit-1](./Unit-1/) | 1–10 | Basics, arithmetic and simple loops |
 
 ## How to run
 
 Install Python 3 and open this folder in the terminal. Run any program using its file name. For example:
 
 ```bash
-python If-Else/01_positive_negative_zero.py
+python Unit-1/01_hello_world.py
 ```
 
 Enter the values when the program asks for input. No extra Python packages are needed.
