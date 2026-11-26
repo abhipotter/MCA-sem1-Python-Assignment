@@ -630,3 +630,90 @@ Input: None
 ```text
 [2, 4, 6]
 ```
+
+## Unit-4/61_circle_area.py
+
+Input: `5`
+
+```text
+Radius: Area: 78.54
+```
+
+## Unit-4/62_random_number.py
+
+Input: None
+
+```text
+Random number: 69
+```
+
+## Unit-4/63_time_module.py
+
+Input: None
+
+```text
+Current time: Wed Nov 25 16:27:55 2026
+Time taken: 1.0 seconds
+```
+
+## Unit-4/64_use_package.py
+
+Input: None
+
+```text
+Sum: 8
+Product: 15
+```
+
+## Unit-4/65_read_file.py
+
+Input: None
+
+```text
+Python is easy
+I like Python
+Python is useful
+```
+
+## Unit-4/66_count_lines.py
+
+Input: None
+
+```text
+Lines: 3
+```
+
+## Unit-4/67_append_file.py
+
+Input: `New line`
+
+```text
+Enter text: First line
+New line
+```
+
+## Unit-4/68_write_numbers.py
+
+Input: None
+
+```text
+Numbers saved
+```
+
+## Unit-4/69_read_csv.py
+
+Input: None
+
+```text
+Name | Marks
+Aman | 80
+Ravi | 75
+```
+
+## Unit-4/70_file_size.py
+
+Input: None
+
+```text
+Size: 46 bytes
+```
